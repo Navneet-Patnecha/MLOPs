@@ -20,7 +20,7 @@ list_of_files = [
    "init_setup.sh",
    "requirements.txt", 
    "src/logger/logging.py",
-   "src/exception/exception"
+   "src/exception/exception.py",
    "setup.py",
    "setup.cfg",
    "pyproject.toml",
